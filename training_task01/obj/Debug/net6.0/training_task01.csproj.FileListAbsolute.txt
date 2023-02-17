@@ -1,0 +1,15 @@
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.csproj.AssemblyReference.cache
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.AssemblyInfoInputs.cache
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.AssemblyInfo.cs
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.csproj.CoreCompileInputs.cache
+D:\C#work002\training_task01\bin\Debug\net6.0\training_task01.exe
+D:\C#work002\training_task01\bin\Debug\net6.0\training_task01.deps.json
+D:\C#work002\training_task01\bin\Debug\net6.0\training_task01.runtimeconfig.json
+D:\C#work002\training_task01\bin\Debug\net6.0\training_task01.dll
+D:\C#work002\training_task01\bin\Debug\net6.0\training_task01.pdb
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.dll
+D:\C#work002\training_task01\obj\Debug\net6.0\refint\training_task01.dll
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.pdb
+D:\C#work002\training_task01\obj\Debug\net6.0\training_task01.genruntimeconfig.cache
+D:\C#work002\training_task01\obj\Debug\net6.0\ref\training_task01.dll
